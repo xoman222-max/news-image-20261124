@@ -12,7 +12,7 @@ One image summing up the world's news of Tuesday 24 November 2026.
 
 ## How it is made
 
-`main.py` (Python 3 standard library only) draws the whole front page from the story list embedded in it: a hand-built 5x7 bitmap font, flat vector icons, a simplified world map, and a hand-rolled PNG encoder (zlib). No network, no clock, no randomness — two runs write byte-identical PNGs. Original drawings, no photographs.
+`main.py` (Python 3 standard library only) draws the whole front page from the story list embedded in it: a hand-built 5x7 bitmap font, flat vector icons, a simplified world map, and a hand-rolled PNG encoder (zlib). No network, no clock, no randomness — two runs write byte-identical PNGs. Original drawings, no photographs. This is the denser v3 rebuild: ruled-paper texture in the story rows, paper grain, a colour-coded world map with ocean labels, and larger icons.
 
 ## Run it
 
